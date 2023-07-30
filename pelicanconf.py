@@ -14,7 +14,7 @@ TIMEZONE = "America/Los_Angeles"
 
 DEFAULT_LANG = "en"
 DEFAULT_DATE = "fs"
-# DEFAULT_CATEGORY = "Main"
+# DEFAULT_CATEGORY = None
 
 
 # Feed generation is usually not desired when developing
@@ -64,4 +64,5 @@ MENUITEMS = (
     # ("About", "/about/"),
     ("Past Projects", "/projects/"),
     ("Main", "../index.html"),
+    ("Shiny Server", "/shiny-server/"),
 )

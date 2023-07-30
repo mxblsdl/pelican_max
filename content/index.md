@@ -4,9 +4,7 @@ save_as: index.html
 
 # About Me
 
-This is a minimal website to host some of my projects and professional profile. 
-
-I make very infrequent updates to the site as of now.
+This is a minimal website to host some of my projects and professional profile. I make very infrequent updates to the site as of now.
 
 ## Currently working as a Data Reporting and Analytics Consultant at Kaiser Permanente. I work with national provider data across all of the regions that KP operates. My role is cross functional with projects in analytics, web development, data engineering, process automation, and IT troubleshooting. I work with R/Python/SQL most of the day. I'm most excited by learning and building new things. I thrive with POC projects and getting new ideas off the ground.
 
