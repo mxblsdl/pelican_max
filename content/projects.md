@@ -8,7 +8,6 @@ Interactive chart made with Chart JS and data processing/web scraping with R. Co
 
 ### [NBA Map](https://mxblsdl.github.io/nba_fission/){target='_blank'}
 
-
 Interactive map of NBA arenas made entirely with JS. Data processing with R
 
 ### [Radio Coverage](https://mxblsdl.github.io/urls/or_radio/){target='_blank'}
