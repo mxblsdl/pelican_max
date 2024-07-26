@@ -28,7 +28,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ("Github", "https://github.com/mxblsdl"),
     ("Linkedin", "https://www.linkedin.com/in/max-blasdel/"),
-    ("Resume", "extra/mblasdel.pdf"),
+    ("Resume", "extra/blasdel_max.pdf"),
     ("Email", "mailto:maxblasdel@gmail.com?subject='website query'"),
 )
 
