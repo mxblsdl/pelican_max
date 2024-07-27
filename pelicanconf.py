@@ -4,6 +4,9 @@ THEME = bulrush.PATH
 JINJA_ENVIRONMENT = bulrush.ENVIRONMENT
 JINJA_FILTERS = bulrush.FILTERS
 
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['assets']
+
 AUTHOR = "max blasdel"
 SITENAME = "maxblasdel"
 SITEURL = ""

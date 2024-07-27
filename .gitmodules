@@ -1,3 +1,9 @@
+[submodule "webassets"]
+	path = webassets
+	url = https://github.com/pelican-plugins/webassets.git
+[submodule "bulrush"]
+	path = bulrush
+	url = https://github.com/textbook/bulrush.git
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins.git
