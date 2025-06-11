@@ -1,4 +1,4 @@
-import bulrush
+import bulrush # type: ignore
 
 THEME = bulrush.PATH
 JINJA_ENVIRONMENT = bulrush.ENVIRONMENT
